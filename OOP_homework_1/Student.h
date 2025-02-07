@@ -1,7 +1,7 @@
 #ifndef Student_h
 #define Student_h
 
-//#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 #include <string>
 #include <vector>
 #include "Course.h"
