@@ -26,7 +26,6 @@ public:
     bool addStudent(int studentId);
     void dropStudent(Student& student);
 
-    // Print course details
     void printDetails();
 };
 
