@@ -16,6 +16,8 @@ private:
 public:
     Student(int id, string name);
     
+    //getters
+    
     int getId();
     string getName();
     vector<int> getEnrolledCourses();
